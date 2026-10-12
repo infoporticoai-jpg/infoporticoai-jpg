@@ -1,6 +1,6 @@
 # Ludovic Martin
 
-Co-founder of [Portico Intelligence](https://github.com/portico-intelligence). I build [taskforse](https://www.taskforse.com), the operating system for commercial cleaning companies.
+Co-founder and CEO of [Portico Intelligence](https://github.com/portico-intelligence). I build [taskforse](https://www.taskforse.com), the operating system for commercial cleaning companies.
 
 ## What I build at taskforse
 
